@@ -3,7 +3,7 @@
  * main - Program printing a line using puts function
  * Return: always 0 (success)
  */
-int (void)
+int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n")
 return (0);
