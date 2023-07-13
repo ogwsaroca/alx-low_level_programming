@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
  * main - Program printing a line using puts function
- * Return: 0
+ * Return: always 0 (success)
  */
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n")
-return (o);
+return (0);
 }
