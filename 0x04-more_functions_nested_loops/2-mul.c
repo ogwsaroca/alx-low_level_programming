@@ -2,9 +2,9 @@
 
 /**
  * mul - Mulitiplies two integers
- * @a: The first number to multiply
- * @b: The second number to multiply with second number
- * Return:The result of multiplication between x param and y param
+ * @a: a - Variable
+ * @b: b - Variable
+ * Return: Always 0
  */
 
 int mul(int a, int b)
